@@ -1,0 +1,7 @@
+streamlit
+requests
+reportlab
+gspread
+oauth2client
+google-auth
+pandas
